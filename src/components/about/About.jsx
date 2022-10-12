@@ -14,8 +14,9 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Fullstack developer with a niche for Frontend. I create webpages
-            with UI / UX user interface.
+            Fullstack Web developer with a niche for Frontend. I create webpages
+            with UI/UX user interface. Along with security data storage on the
+            backend.
           </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
