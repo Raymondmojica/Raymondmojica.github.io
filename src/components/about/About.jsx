@@ -8,15 +8,16 @@ const About = () => {
   return (
     <section className="about section" id="about">
       <h2 className="section__title">About Me</h2>
-      <span className="section__subtitle">My introduction</span>
+      <span className="section__subtitle">Summary/Objective</span>
       <div className="about__container container grid">
         <img src={AboutImg} alt="" className="about__img" />
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Fullstack Web developer with a niche for Frontend. I create webpages
-            with UI/UX user interface. Along with security data storage on the
-            backend.
+            My objective is to obtain a challenging and responsible position in
+            a dynamic company, utilizing best programming practices, cyber
+            security, and a strong perseverance and determination to myself, my
+            co-workers, and my job.
           </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
