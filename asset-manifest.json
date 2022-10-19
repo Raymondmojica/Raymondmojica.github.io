@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Raymondmojica.github.io/static/css/main.be918115.css",
+    "main.js": "/Raymondmojica.github.io/static/js/main.e90fecd6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Raymondmojica.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/about.jpeg": "/Raymondmojica.github.io/static/media/about.f829d6a1590fe0128c82.jpeg",
+    "static/media/profile.jpeg": "/Raymondmojica.github.io/static/media/profile.b615c6187dccc89ec4a0.jpeg",
+    "static/media/Smith-Cv.pdf": "/Raymondmojica.github.io/static/media/Smith-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/Raymondmojica.github.io/index.html",
+    "main.be918115.css.map": "/Raymondmojica.github.io/static/css/main.be918115.css.map",
+    "main.e90fecd6.js.map": "/Raymondmojica.github.io/static/js/main.e90fecd6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Raymondmojica.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be918115.css",
+    "static/js/main.e90fecd6.js"
+  ]
+}
