@@ -12,7 +12,7 @@ const Social = () => {
       </a>
 
       <a
-        href="https://instagram.com/tsgkta?r=nametag"
+        href="https://instagram.com/__raymondm__?r=nametag"
         className="home__social-icon"
         target="_blank"
       >
