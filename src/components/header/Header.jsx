@@ -19,20 +19,20 @@ const Header = () => {
             </li>
 
             <li className="nav__item">
-              <a href="#about" className="nav__link">
-                <i className="uil uil-user nav__icon"> About </i>
-              </a>
-            </li>
-
-            <li className="nav__item">
               <a href="#skills" className="nav__link">
-                <i className="uil uil-file-alt nav__icon"> Skills </i>
+                <i className="uil uil-user nav__icon"> Skills </i>
               </a>
             </li>
 
             <li className="nav__item">
               <a href="#services" className="nav__link">
-                <i className="uil uil-briefcase-alt nav__icon"> Services </i>
+                <i className="uil uil-file-alt nav__icon"> Services </i>
+              </a>
+            </li>
+
+            <li className="nav__item">
+              <a href="#about" className="nav__link">
+                <i className="uil uil-briefcase-alt nav__icon"> About </i>
               </a>
             </li>
 

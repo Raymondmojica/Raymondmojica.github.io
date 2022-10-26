@@ -56,7 +56,7 @@ const Data = () => {
         </svg>
       </h1>
       <h3 className="home__subtitle">Web Dev</h3>
-      <p className="home__description">Full stack student at NC State</p>
+      <p className="home__description"> Full stack Developer</p>
     </div>
   );
 };
